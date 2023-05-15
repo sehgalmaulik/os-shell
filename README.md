@@ -83,6 +83,10 @@ To view command history with associated PIDs:
 msh> history -p
 ```
 
-## License
+## Copyright 
 
-This project is licensed under the MIT License.
+Copyright © 2023. All rights reserved.
+
+This software is provided for educational purposes only. It is prohibited to use this code, for any college assignment or personal use. Unauthorized distribution, modification or commercial usage is strictly forbidden. Please respect the rights of the author.
+
+
